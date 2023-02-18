@@ -1,0 +1,36 @@
+.tab
+{
+    display: flex;
+    justify-content: center;
+    margin:10px;
+    border:1px solid black;
+    background-color: rgb(68, 70, 70);
+}
+
+.add
+{
+    padding:20px;
+    row-gap: 10px;
+    border :1px solid black;
+    margin:20px;
+    color:white;
+}
+.search
+{
+    margin:10px;
+    width:400px;
+}
+table,th,tr,td
+{
+    border: 2px solid white;
+    color:white;
+}
+td{
+    padding :10px;
+    border: 1px solid white;
+}
+.det
+{
+    margin :10px;
+    border:1px solid dashed black;
+}
